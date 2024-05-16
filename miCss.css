@@ -1,0 +1,14 @@
+.pequeña{
+        width: 100px;
+      }
+.mediana{
+        width: 300px;
+    }
+
+h1{
+	background-color:DodgerBlue;
+}
+body{
+	background-color: #FFF3CC;
+	font-family: 'Familjen Grotesk', sans-serif;
+}
